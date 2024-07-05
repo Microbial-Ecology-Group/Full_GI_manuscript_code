@@ -1,0 +1,177 @@
+Sample_names,Body_Site,Animal,Sample_Type,VID,EID,Pen,TRT,Weight,Chute_Order,BCRC_Weight,Chain_Order,BCRC_Sheet_Number,Liver_Score,Lung_Score,Heart_Score,Rumen_Score,Liver_Abscess,Sample_Time,Weight_Group
+Abo01,Abomasum,Animal_01,Sample,15,9.82E+14,27,Control ,1455,5,1422,1,1,Edible,Good,1,1,N,1,14A
+Abo02,Abomasum,Animal_02,Sample,828,9.82E+14,27,Control ,1355,2,1330,2,2,Edible ,Good,3,1,N,1,13A
+Abo03,Abomasum,Animal_03,Sample,729,9.88E+14,27,Control ,1400,1,1360,3,11,Edible,Good,4,2,N,1,14A
+Abo04,Abomasum,Animal_04,Sample,9120,9.82E+14,27,Control ,1490,3,1429,4,12,Edible,Good,1,1,N,1,14A
+Abo05,Abomasum,Animal_05,Sample,847,9.82E+14,27,Control ,1410,4,1375,5,13,A+/OP,Minor,1,1,Y,1,14A
+Abo06,Abomasum,Animal_06,Sample,827,9.82E+14,28,Mootral,1365,7,1339,6,14,Edible,Good,3,2,N,1,13A
+Abo07,Abomasum,Animal_07,Sample,22,9.82E+14,28,Mootral,1415,8,1382,7,15,Edible,Good,1,1,N,1,14A
+Abo08,Abomasum,Animal_08,Sample,9052,9.82E+14,28,Mootral,1230,9,1217,8,16,A+/OP,2M,3,1,Y,1,12A
+Abo09,Abomasum,Animal_09,Sample,208,9.82E+14,28,Mootral,1315,10,1294,9,17,Edible,E,2,2,N,1,13A
+Abo11,Abomasum,Animal_11,Sample,5054,9.82E+14,25,Control ,1125,6.2,1320,1,,A+,1E,1,2,Y,2,11A
+Abo12,Abomasum,Animal_12,Sample,5085,9.82E+14,25,Control ,1190,9.2,1148,2,,Edible,N,3,1,N,2,11A
+Abo13,Abomasum,Animal_13,Sample,9014,9.82E+14,25,Control ,1065,7.2,1047,3,,A+,1E,1,1,Y,2,10A
+Abo14,Abomasum,Animal_14,Sample,690,9.82E+14,25,Control ,1420,8.2,1379,4,,Flukes,E,3,2,N,2,14A
+Abo15,Abomasum,Animal_15,Sample,5086,9.82E+14,26,Mootral,1295,5.2,1250,5,,Edible,E,1,1,N,2,12A
+Abo16,Abomasum,Animal_16,Sample,7977,9.88E+14,26,Mootral,1115,1.2,1073,6,,Edible,N,1,2,N,2,11A
+Abo17,Abomasum,Animal_17,Sample,7953,9.88E+14,26,Mootral,1090,4.2,1415,7,,Edible,1E,3,3,N,2,10A
+Abo18,Abomasum,Animal_18,Sample,677,9.82E+14,26,Mootral,1265,2.2,1184,8,,Flukes,N,1,1,N,2,12A
+Abo19,Abomasum,Animal_19,Sample,4687,8.40E+14,26,Mootral,1465,3.2,1083,9,,Edible,N,2,2,N,2,14A
+Cec01,Cecum,Animal_01,Sample,15,9.82E+14,27,Control ,1456,5,1422,1,1,Edible,Good,1,1,N,1,14A
+Cec02,Cecum,Animal_02,Sample,828,9.82E+14,27,Control ,1355,2,1330,2,2,Edible ,Good,3,1,N,1,13A
+Cec03,Cecum,Animal_03,Sample,729,9.88E+14,27,Control ,1400,1,1360,3,11,Edible,Good,4,2,N,1,14A
+Cec04,Cecum,Animal_04,Sample,9120,9.82E+14,27,Control ,1490,3,1429,4,12,Edible,Good,1,1,N,1,14A
+Cec05,Cecum,Animal_05,Sample,847,9.82E+14,27,Control ,1410,4,1375,5,13,A+/OP,Minor,1,1,Y,1,14A
+Cec06,Cecum,Animal_06,Sample,827,9.82E+14,28,Mootral,1365,7,1339,6,14,Edible,Good,3,2,N,1,13A
+Cec07,Cecum,Animal_07,Sample,22,9.82E+14,28,Mootral,1415,8,1382,7,15,Edible,Good,1,1,N,1,14A
+Cec08,Cecum,Animal_08,Sample,9052,9.82E+14,28,Mootral,1230,9,1217,8,16,A+/OP,2M,3,1,Y,1,12A
+Cec09,Cecum,Animal_09,Sample,208,9.82E+14,28,Mootral,1315,10,1294,9,17,Edible,E,2,2,N,1,13A
+Cec11,Cecum,Animal_11,Sample,5054,9.82E+14,25,Control ,1125,6.2,1320,1,,A+,1E,1,2,Y,2,11A
+Cec12,Cecum,Animal_12,Sample,5085,9.82E+14,25,Control ,1190,9.2,1148,2,,Edible,N,3,1,N,2,11A
+Cec13,Cecum,Animal_13,Sample,9014,9.82E+14,25,Control ,1065,7.2,1047,3,,A+,1E,1,1,Y,2,10A
+Cec14,Cecum,Animal_14,Sample,690,9.82E+14,25,Control ,1420,8.2,1379,4,,Flukes,E,3,2,N,2,14A
+Cec15,Cecum,Animal_15,Sample,5086,9.82E+14,26,Mootral,1295,5.2,1250,5,,Edible,E,1,1,N,2,12A
+Cec16,Cecum,Animal_16,Sample,7977,9.88E+14,26,Mootral,1115,1.2,1073,6,,Edible,N,1,2,N,2,11A
+Cec17,Cecum,Animal_17,Sample,7953,9.88E+14,26,Mootral,1090,4.2,1415,7,,Edible,1E,3,3,N,2,10A
+Cec18,Cecum,Animal_18,Sample,677,9.82E+14,26,Mootral,1265,2.2,1184,8,,Flukes,N,1,1,N,2,12A
+Cec19,Cecum,Animal_19,Sample,4687,8.40E+14,26,Mootral,1465,3.2,1083,9,,Edible,N,2,2,N,2,14A
+DisC01,Distal_Colon,Animal_01,Sample,15,9.82E+14,27,Control ,1457,5,1422,1,1,Edible,Good,1,1,N,1,14A
+DisC02,Distal_Colon,Animal_02,Sample,828,9.82E+14,27,Control ,1355,2,1330,2,2,Edible ,Good,3,1,N,1,13A
+DisC03,Distal_Colon,Animal_03,Sample,729,9.88E+14,27,Control ,1400,1,1360,3,11,Edible,Good,4,2,N,1,14A
+DisC04,Distal_Colon,Animal_04,Sample,9120,9.82E+14,27,Control ,1490,3,1429,4,12,Edible,Good,1,1,N,1,14A
+DisC05,Distal_Colon,Animal_05,Sample,847,9.82E+14,27,Control ,1410,4,1375,5,13,A+/OP,Minor,1,1,Y,1,14A
+DisC06,Distal_Colon,Animal_06,Sample,827,9.82E+14,28,Mootral,1365,7,1339,6,14,Edible,Good,3,2,N,1,13A
+DisC07,Distal_Colon,Animal_07,Sample,22,9.82E+14,28,Mootral,1415,8,1382,7,15,Edible,Good,1,1,N,1,14A
+DisC08,Distal_Colon,Animal_08,Sample,9052,9.82E+14,28,Mootral,1230,9,1217,8,16,A+/OP,2M,3,1,Y,1,12A
+DisC09,Distal_Colon,Animal_09,Sample,208,9.82E+14,28,Mootral,1315,10,1294,9,17,Edible,E,2,2,N,1,13A
+DisC11,Distal_Colon,Animal_11,Sample,5054,9.82E+14,25,Control ,1125,6.2,1320,1,,A+,1E,1,2,Y,2,11A
+DisC12,Distal_Colon,Animal_12,Sample,5085,9.82E+14,25,Control ,1190,9.2,1148,2,,Edible,N,3,1,N,2,11A
+DisC13,Distal_Colon,Animal_13,Sample,9014,9.82E+14,25,Control ,1065,7.2,1047,3,,A+,1E,1,1,Y,2,10A
+DisC14,Distal_Colon,Animal_14,Sample,690,9.82E+14,25,Control ,1420,8.2,1379,4,,Flukes,E,3,2,N,2,14A
+DisC15,Distal_Colon,Animal_15,Sample,5086,9.82E+14,26,Mootral,1295,5.2,1250,5,,Edible,E,1,1,N,2,12A
+DisC16,Distal_Colon,Animal_16,Sample,7977,9.88E+14,26,Mootral,1115,1.2,1073,6,,Edible,N,1,2,N,2,11A
+DisC17,Distal_Colon,Animal_17,Sample,7953,9.88E+14,26,Mootral,1090,4.2,1415,7,,Edible,1E,3,3,N,2,10A
+DisC18,Distal_Colon,Animal_18,Sample,677,9.82E+14,26,Mootral,1265,2.2,1184,8,,Flukes,N,1,1,N,2,12A
+DisC19,Distal_Colon,Animal_19,Sample,4687,8.40E+14,26,Mootral,1465,3.2,1083,9,,Edible,N,2,2,N,2,14A
+Duo01,Duodenum,Animal_01,Sample,15,9.82E+14,27,Control ,1458,5,1422,1,1,Edible,Good,1,1,N,1,14A
+Duo02,Duodenum,Animal_02,Sample,828,9.82E+14,27,Control ,1355,2,1330,2,2,Edible ,Good,3,1,N,1,13A
+Duo04,Duodenum,Animal_04,Sample,9120,9.82E+14,27,Control ,1490,3,1429,4,12,Edible,Good,1,1,N,1,14A
+Duo05,Duodenum,Animal_05,Sample,847,9.82E+14,27,Control ,1410,4,1375,5,13,A+/OP,Minor,1,1,Y,1,14A
+Duo06,Duodenum,Animal_06,Sample,827,9.82E+14,28,Mootral,1365,7,1339,6,14,Edible,Good,3,2,N,1,14A
+Duo07,Duodenum,Animal_07,Sample,22,9.82E+14,28,Mootral,1415,8,1382,7,15,Edible,Good,1,1,N,1,11A
+Duo08,Duodenum,Animal_08,Sample,9052,9.82E+14,28,Mootral,1230,9,1217,8,16,A+/OP,2M,3,1,Y,1,12A
+Duo09,Duodenum,Animal_09,Sample,208,9.82E+14,28,Mootral,1315,10,1294,9,17,Edible,E,2,2,N,1,13A
+Duo11,Duodenum,Animal_11,Sample,5054,9.82E+14,25,Control ,1125,6.2,1320,1,,A+,1E,1,2,Y,2,11A
+Duo12,Duodenum,Animal_12,Sample,5085,9.82E+14,25,Control ,1190,9.2,1148,2,,Edible,N,3,1,N,2,10A
+Duo13,Duodenum,Animal_13,Sample,9014,9.82E+14,25,Control ,1065,7.2,1047,3,,A+,1E,1,1,Y,2,12A
+Duo15,Duodenum,Animal_15,Sample,5086,9.82E+14,26,Mootral,1295,5.2,1250,5,,Edible,E,1,1,N,2,11A
+Duo16,Duodenum,Animal_16,Sample,7977,9.88E+14,26,Mootral,1115,1.2,1073,6,,Edible,N,1,2,N,2,10A
+Duo17,Duodenum,Animal_17,Sample,7953,9.88E+14,26,Mootral,1090,4.2,1415,7,,Edible,1E,3,3,N,2,12A
+Duo18,Duodenum,Animal_18,Sample,677,9.82E+14,26,Mootral,1265,2.2,1184,8,,Flukes,N,1,1,N,2,14A
+Duo19,Duodenum,Animal_19,Sample,4687,8.40E+14,26,Mootral,1465,3.2,1083,9,,Edible,N,2,2,N,2,14A
+Fec02,Fecal,Animal_02,Sample,828,9.82E+14,27,Control ,1355,2,1330,2,2,Edible ,Good,3,1,N,1,13A
+Fec03,Fecal,Animal_03,Sample,729,9.88E+14,27,Control ,1400,1,1360,3,11,Edible,Good,4,2,N,1,14A
+Fec04,Fecal,Animal_04,Sample,9120,9.82E+14,27,Control ,1490,3,1429,4,12,Edible,Good,1,1,N,1,14A
+Fec05,Fecal,Animal_05,Sample,847,9.82E+14,27,Control ,1410,4,1375,5,13,A+/OP,Minor,1,1,Y,1,13A
+Fec06,Fecal,Animal_06,Sample,827,9.82E+14,28,Mootral,1365,7,1339,6,14,Edible,Good,3,2,N,1,14A
+Fec07,Fecal,Animal_07,Sample,22,9.82E+14,28,Mootral,1415,8,1382,7,15,Edible,Good,1,1,N,1,12A
+Fec08,Fecal,Animal_08,Sample,9052,9.82E+14,28,Mootral,1230,9,1217,8,16,A+/OP,2M,3,1,Y,1,13A
+Fec09,Fecal,Animal_09,Sample,208,9.82E+14,28,Mootral,1315,10,1294,9,17,Edible,E,2,2,N,1,11A
+Fec11,Fecal,Animal_11,Sample,5054,9.82E+14,25,Control ,1125,6.2,1320,1,,A+,1E,1,2,Y,2,10A
+Fec13,Fecal,Animal_13,Sample,9014,9.82E+14,25,Control ,1065,7.2,1047,3,,A+,1E,1,1,Y,2,14A
+Fec14,Fecal,Animal_14,Sample,690,9.82E+14,25,Control ,1420,8.2,1379,4,,Flukes,E,3,2,N,2,12A
+Fec15,Fecal,Animal_15,Sample,5086,9.82E+14,26,Mootral,1295,5.2,1250,5,,Edible,E,1,1,N,2,11A
+Fec16,Fecal,Animal_16,Sample,7977,9.88E+14,26,Mootral,1115,1.2,1073,6,,Edible,N,1,2,N,2,10A
+Fec17,Fecal,Animal_17,Sample,7953,9.88E+14,26,Mootral,1090,4.2,1415,7,,Edible,1E,3,3,N,2,12A
+Fec18,Fecal,Animal_18,Sample,677,9.82E+14,26,Mootral,1265,2.2,1184,8,,Flukes,N,1,1,N,2,14A
+Fec19,Fecal,Animal_19,Sample,4687,8.40E+14,26,Mootral,1465,3.2,1083,9,,Edible,N,2,2,N,2,13A
+Ile02,Ileum,Animal_02,Sample,828,9.82E+14,27,Control ,1355,2,1330,2,2,Edible ,Good,3,1,N,1,14A
+Ile03,Ileum,Animal_03,Sample,729,9.88E+14,27,Control ,1400,1,1360,3,11,Edible,Good,4,2,N,1,14A
+Ile04,Ileum,Animal_04,Sample,9120,9.82E+14,27,Control ,1490,3,1429,4,12,Edible,Good,1,1,N,1,14A
+Ile05,Ileum,Animal_05,Sample,847,9.82E+14,27,Control ,1410,4,1375,5,13,A+/OP,Minor,1,1,Y,1,13A
+Ile06,Ileum,Animal_06,Sample,827,9.82E+14,28,Mootral,1365,7,1339,6,14,Edible,Good,3,2,N,1,12A
+Ile07,Ileum,Animal_07,Sample,22,9.82E+14,28,Mootral,1415,8,1382,7,15,Edible,Good,1,1,N,1,12A
+Ile08,Ileum,Animal_08,Sample,9052,9.82E+14,28,Mootral,1230,9,1217,8,16,A+/OP,2M,3,1,Y,1,13A
+Ile09,Ileum,Animal_09,Sample,208,9.82E+14,28,Mootral,1315,10,1294,9,17,Edible,E,2,2,N,1,11A
+Ile11,Ileum,Animal_11,Sample,5054,9.82E+14,25,Control ,1125,6.2,1320,1,,A+,1E,1,2,Y,2,11A
+Ile12,Ileum,Animal_12,Sample,5085,9.82E+14,25,Control ,1190,9.2,1148,2,,Edible,N,3,1,N,2,12A
+Ile15,Ileum,Animal_15,Sample,5086,9.82E+14,26,Mootral,1295,5.2,1250,5,,Edible,E,1,1,N,2,11A
+Ile16,Ileum,Animal_16,Sample,7977,9.88E+14,26,Mootral,1115,1.2,1073,6,,Edible,N,1,2,N,2,10A
+Ile17,Ileum,Animal_17,Sample,7953,9.88E+14,26,Mootral,1090,4.2,1415,7,,Edible,1E,3,3,N,2,12A
+Ile18,Ileum,Animal_18,Sample,677,9.82E+14,26,Mootral,1265,2.2,1184,8,,Flukes,N,1,1,N,2,14A
+Ile19,Ileum,Animal_19,Sample,4687,8.40E+14,26,Mootral,1465,3.2,1083,9,,Edible,N,2,2,N,2,13A
+Jej02,Jejunum,Animal_02,Sample,828,9.82E+14,27,Control ,1355,2,1330,2,2,Edible ,Good,3,1,N,1,14A
+Jej03,Jejunum,Animal_03,Sample,729,9.88E+14,27,Control ,1400,1,1360,3,11,Edible,Good,4,2,N,1,14A
+Jej04,Jejunum,Animal_04,Sample,9120,9.82E+14,27,Control ,1490,3,1429,4,12,Edible,Good,1,1,N,1,14A
+Jej05,Jejunum,Animal_05,Sample,847,9.82E+14,27,Control ,1410,4,1375,5,13,A+/OP,Minor,1,1,Y,1,13A
+Jej06,Jejunum,Animal_06,Sample,827,9.82E+14,28,Mootral,1365,7,1339,6,14,Edible,Good,3,2,N,1,14A
+Jej07,Jejunum,Animal_07,Sample,22,9.82E+14,28,Mootral,1415,8,1382,7,15,Edible,Good,1,1,N,1,12A
+Jej08,Jejunum,Animal_08,Sample,9052,9.82E+14,28,Mootral,1230,9,1217,8,16,A+/OP,2M,3,1,Y,1,13A
+Jej09,Jejunum,Animal_09,Sample,208,9.82E+14,28,Mootral,1315,10,1294,9,17,Edible,E,2,2,N,1,11A
+Jej11,Jejunum,Animal_11,Sample,5054,9.82E+14,25,Control ,1125,6.2,1320,1,,A+,1E,1,2,Y,2,10A
+Jej12,Jejunum,Animal_12,Sample,5085,9.82E+14,25,Control ,1190,9.2,1148,2,,Edible,N,3,1,N,2,12A
+Jej13,Jejunum,Animal_13,Sample,9014,9.82E+14,25,Control ,1065,7.2,1047,3,,A+,1E,1,1,Y,2,14A
+Jej14,Jejunum,Animal_14,Sample,690,9.82E+14,25,Control ,1420,8.2,1379,4,,Flukes,E,3,2,N,2,12A
+Jej15,Jejunum,Animal_15,Sample,5086,9.82E+14,26,Mootral,1295,5.2,1250,5,,Edible,E,1,1,N,2,11A
+Jej16,Jejunum,Animal_16,Sample,7977,9.88E+14,26,Mootral,1115,1.2,1073,6,,Edible,N,1,2,N,2,10A
+Jej17,Jejunum,Animal_17,Sample,7953,9.88E+14,26,Mootral,1090,4.2,1415,7,,Edible,1E,3,3,N,2,12A
+Jej18,Jejunum,Animal_18,Sample,677,9.82E+14,26,Mootral,1265,2.2,1184,8,,Flukes,N,1,1,N,2,14A
+Jej19,Jejunum,Animal_19,Sample,4687,8.40E+14,26,Mootral,1465,3.2,1083,9,,Edible,N,2,2,N,2,14A
+LA5,Liver_Abscess,Animal_5,Sample,847,9.82E+14,27,Control ,1410,4,1375,5,13,A+/OP,Minor,1,1,Y,1,12A
+LA8-1,Liver_Abscess,Animal_8,Sample,9052,9.82E+14,28,Mootral,1230,9,1217,8,16,A+/OP,2M,3,1,Y,1,12A
+LA8-2,Liver_Abscess,Animal_8,Sample,9052,9.82E+14,28,Mootral,1230,9,1217,8,16,A+/OP,2M,3,1,Y,1,12A
+LA8-3,Liver_Abscess,Animal_8,Sample,9052,9.82E+14,28,Mootral,1230,9,1217,8,16,A+/OP,2M,3,1,Y,1,14A
+Or01,Oral,Animal_01,Sample,15,9.82E+14,27,Control ,1459,5,1422,1,1,Edible,Good,1,1,N,1,13A
+Or02,Oral,Animal_02,Sample,828,9.82E+14,27,Control ,1355,2,1330,2,2,Edible ,Good,3,1,N,1,14A
+Or03,Oral,Animal_03,Sample,729,9.88E+14,27,Control ,1400,1,1360,3,11,Edible,Good,4,2,N,1,14A
+Or04,Oral,Animal_04,Sample,9120,9.82E+14,27,Control ,1490,3,1429,4,12,Edible,Good,1,1,N,1,14A
+Or05,Oral,Animal_05,Sample,847,9.82E+14,27,Control ,1410,4,1375,5,13,A+/OP,Minor,1,1,Y,1,13A
+Or06,Oral,Animal_06,Sample,827,9.82E+14,28,Mootral,1365,7,1339,6,14,Edible,Good,3,2,N,1,14A
+Or07,Oral,Animal_07,Sample,22,9.82E+14,28,Mootral,1415,8,1382,7,15,Edible,Good,1,1,N,1,12A
+Or08,Oral,Animal_08,Sample,9052,9.82E+14,28,Mootral,1230,9,1217,8,16,A+/OP,2M,3,1,Y,1,13A
+Or09,Oral,Animal_09,Sample,208,9.82E+14,28,Mootral,1315,10,1294,9,17,Edible,E,2,2,N,1,11A
+Or11,Oral,Animal_11,Sample,5054,9.82E+14,25,Control ,1125,6.2,1320,1,,A+,1E,1,2,Y,2,11A
+Or12,Oral,Animal_12,Sample,5085,9.82E+14,25,Control ,1190,9.2,1148,2,,Edible,N,3,1,N,2,10A
+Or13,Oral,Animal_13,Sample,9014,9.82E+14,25,Control ,1065,7.2,1047,3,,A+,1E,1,1,Y,2,14A
+Or14,Oral,Animal_14,Sample,690,9.82E+14,25,Control ,1420,8.2,1379,4,,Flukes,E,3,2,N,2,12A
+Or15,Oral,Animal_15,Sample,5086,9.82E+14,26,Mootral,1295,5.2,1250,5,,Edible,E,1,1,N,2,11A
+Or16,Oral,Animal_16,Sample,7977,9.88E+14,26,Mootral,1115,1.2,1073,6,,Edible,N,1,2,N,2,10A
+Or17,Oral,Animal_17,Sample,7953,9.88E+14,26,Mootral,1090,4.2,1415,7,,Edible,1E,3,3,N,2,12A
+Or18,Oral,Animal_18,Sample,677,9.82E+14,26,Mootral,1265,2.2,1184,8,,Flukes,N,1,1,N,2,14A
+Or19,Oral,Animal_19,Sample,4687,8.40E+14,26,Mootral,1465,3.2,1083,9,,Edible,N,2,2,N,2,14A
+Rum01,Rumen,Animal_01,Sample,15,9.82E+14,27,Control ,1460,5,1422,1,1,Edible,Good,1,1,N,1,13A
+Rum02,Rumen,Animal_02,Sample,828,9.82E+14,27,Control ,1355,2,1330,2,2,Edible ,Good,3,1,N,1,14A
+Rum03,Rumen,Animal_03,Sample,729,9.88E+14,27,Control ,1400,1,1360,3,11,Edible,Good,4,2,N,1,14A
+Rum04,Rumen,Animal_04,Sample,9120,9.82E+14,27,Control ,1490,3,1429,4,12,Edible,Good,1,1,N,1,14A
+Rum05,Rumen,Animal_05,Sample,847,9.82E+14,27,Control ,1410,4,1375,5,13,A+/OP,Minor,1,1,Y,1,13A
+Rum06,Rumen,Animal_06,Sample,827,9.82E+14,28,Mootral,1365,7,1339,6,14,Edible,Good,3,2,N,1,14A
+Rum07,Rumen,Animal_07,Sample,22,9.82E+14,28,Mootral,1415,8,1382,7,15,Edible,Good,1,1,N,1,12A
+Rum08,Rumen,Animal_08,Sample,9052,9.82E+14,28,Mootral,1230,9,1217,8,16,A+/OP,2M,3,1,Y,1,13A
+Rum09,Rumen,Animal_09,Sample,208,9.82E+14,28,Mootral,1315,10,1294,9,17,Edible,E,2,2,N,1,11A
+Rum11,Rumen,Animal_11,Sample,5054,9.82E+14,25,Control ,1125,6.2,1320,1,,A+,1E,1,2,Y,2,11A
+Rum12,Rumen,Animal_12,Sample,5085,9.82E+14,25,Control ,1190,9.2,1148,2,,Edible,N,3,1,N,2,10A
+Rum13,Rumen,Animal_13,Sample,9014,9.82E+14,25,Control ,1065,7.2,1047,3,,A+,1E,1,1,Y,2,14A
+Rum14,Rumen,Animal_14,Sample,690,9.82E+14,25,Control ,1420,8.2,1379,4,,Flukes,E,3,2,N,2,12A
+Rum15,Rumen,Animal_15,Sample,5086,9.82E+14,26,Mootral,1295,5.2,1250,5,,Edible,E,1,1,N,2,11A
+Rum16,Rumen,Animal_16,Sample,7977,9.88E+14,26,Mootral,1115,1.2,1073,6,,Edible,N,1,2,N,2,10A
+Rum17,Rumen,Animal_17,Sample,7953,9.88E+14,26,Mootral,1090,4.2,1415,7,,Edible,1E,3,3,N,2,12A
+Rum18,Rumen,Animal_18,Sample,677,9.82E+14,26,Mootral,1265,2.2,1184,8,,Flukes,N,1,1,N,2,14A
+Rum19,Rumen,Animal_19,Sample,4687,8.40E+14,26,Mootral,1465,3.2,1083,9,,Edible,N,2,2,N,2,14A
+SprC01,Spiral_Colon,Animal_01,Sample,15,9.82E+14,27,Control ,1461,5,1422,1,1,Edible,Good,1,1,N,1,13A
+SprC02,Spiral_Colon,Animal_02,Sample,828,9.82E+14,27,Control ,1355,2,1330,2,2,Edible ,Good,3,1,N,1,14A
+SprC03,Spiral_Colon,Animal_03,Sample,729,9.88E+14,27,Control ,1400,1,1360,3,11,Edible,Good,4,2,N,1,14A
+SprC04,Spiral_Colon,Animal_04,Sample,9120,9.82E+14,27,Control ,1490,3,1429,4,12,Edible,Good,1,1,N,1,14A
+SprC05,Spiral_Colon,Animal_05,Sample,847,9.82E+14,27,Control ,1410,4,1375,5,13,A+/OP,Minor,1,1,Y,1,13A
+SprC06,Spiral_Colon,Animal_06,Sample,827,9.82E+14,28,Mootral,1365,7,1339,6,14,Edible,Good,3,2,N,1,14A
+SprC07,Spiral_Colon,Animal_07,Sample,22,9.82E+14,28,Mootral,1415,8,1382,7,15,Edible,Good,1,1,N,1,12A
+SprC08,Spiral_Colon,Animal_08,Sample,9052,9.82E+14,28,Mootral,1230,9,1217,8,16,A+/OP,2M,3,1,Y,1,13A
+SprC09,Spiral_Colon,Animal_09,Sample,208,9.82E+14,28,Mootral,1315,10,1294,9,17,Edible,E,2,2,N,1,11A
+SprC11,Spiral_Colon,Animal_11,Sample,5054,9.82E+14,25,Control ,1125,6.2,1320,1,,A+,1E,1,2,Y,2,11A
+SprC12,Spiral_Colon,Animal_12,Sample,5085,9.82E+14,25,Control ,1190,9.2,1148,2,,Edible,N,3,1,N,2,10A
+SprC13,Spiral_Colon,Animal_13,Sample,9014,9.82E+14,25,Control ,1065,7.2,1047,3,,A+,1E,1,1,Y,2,14A
+SprC14,Spiral_Colon,Animal_14,Sample,690,9.82E+14,25,Control ,1420,8.2,1379,4,,Flukes,E,3,2,N,2,12A
+SprC15,Spiral_Colon,Animal_15,Sample,5086,9.82E+14,26,Mootral,1295,5.2,1250,5,,Edible,E,1,1,N,2,11A
+SprC16,Spiral_Colon,Animal_16,Sample,7977,9.88E+14,26,Mootral,1115,1.2,1073,6,,Edible,N,1,2,N,2,10A
+SprC17,Spiral_Colon,Animal_17,Sample,7953,9.88E+14,26,Mootral,1090,4.2,1415,7,,Edible,1E,3,3,N,2,12A
+SprC18,Spiral_Colon,Animal_18,Sample,677,9.82E+14,26,Mootral,1265,2.2,1184,8,,Flukes,N,1,1,N,2,14A
+SprC19,Spiral_Colon,Animal_19,Sample,4687,8.40E+14,26,Mootral,1465,3.2,1083,9,,Edible,N,2,2,N,2,
