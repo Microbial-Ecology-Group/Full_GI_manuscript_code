@@ -1,0 +1,173 @@
+sample_name,body_site,LAYoN,plate,position ,mean_copy,harvest_group
+Abo01,Abomassum,N,Plate8,U9,1596737.5,1
+Abo02,Abomassum,N,Plate6,U21,2202508,1
+Abo03,Abomassum,N,Plate2,U1,463817.25,1
+Abo04,Abomassum,N,Plate7,U6,454275.34,1
+Abo05,Abomassum,Y,Plate6,U3,899267.06,1
+Abo06,Abomassum,N,Plate5,U19,146227.52,1
+Abo07,Abomassum,N,Plate3,U1,1334143.88,1
+Abo08,Abomassum,Y,Plate2,U6,559841.56,1
+Abo09,Abomassum,N,Plate3,U18,213747.38,1
+Abo11,Abomassum,Y,Plate2,U10,1128445.88,2
+Abo12,Abomassum,N,Plate2,U12,1400110.38,2
+Abo13,Abomassum,N,Plate 1,U18,573708.31,2
+Abo13,Abomassum,N,Plate5,U24,2053435.38,2
+Abo14,Abomassum,N,Plate5,U17,2064647,2
+Abo15,Abomassum,N,Plate5,U15,1307567.63,2
+Abo16,Abomassum,N,Plate4,U23,141020.8,2
+Abo17,Abomassum,N,Plate2,U9,98945.32,2
+Abo18,Abomassum,N,Plate 1,U17,687586.31,2
+Abo19,Abomassum,N,Plate5,U2,102908.96,2
+Cec01,Cecum,N,Plate2,U13,3001912.75,1
+Cec02,Cecum,N,Plate6,U20,4792087.5,1
+Cec03,Cecum,N,Plate 1,U4,1398156.88,1
+Cec04,Cecum,N,Plate8,U18,6466573.5,1
+Cec05,Cecum,Y,Plate3,U7,2200389,1
+Cec06,Cecum,N,Plate6,U18,6874561.5,1
+Cec07,Cecum,N,Plate2,U8,3291087,1
+Cec08,Cecum,Y,Plate3,U5,2219987,1
+Cec09,Cecum,N,Plate5,U11,4923808.5,1
+Cec11,Cecum,Y,Plate6,U7,4226714,2
+Cec12,Cecum,N,Plate3,U12,6656707.5,2
+Cec13,Cecum,N,Plate8,U22,4552374.5,2
+Cec14,Cecum,N,Plate 1,U16,3646009,2
+Cec15,Cecum,N,Plate5,U1,3022346.75,2
+Cec16,Cecum,N,Plate7,U16,3933688.25,2
+Cec17,Cecum,N,Plate7,U7,4606544,2
+Cec18,Cecum,N,Plate4,U21,3694011,2
+Cec19,Cecum,N,Plate2,U5,2719696,2
+DisC02,Distal_Colon,N,Plate4,U3,775023,1
+DisC03,Distal_Colon,N,Plate4,U14,838389.19,1
+DisC04,Distal_Colon,N,Plate6,U2,2041514.88,1
+DisC05,Distal_Colon,Y,Plate4,U4,4991.2,1
+DisC06,Distal_Colon,N,Plate4,U17,1652564,1
+DisC07,Distal_Colon,N,Plate3,U14,245724.2,1
+DisC08,Distal_Colon,Y,Plate6,U13,1624159.38,1
+DisC11,Distal_Colon,Y,Plate7,U21,5160648,2
+DisC14,Distal_Colon,N,Plate5,U13,5730358,2
+DisC16,Distal_Colon,N,Plate3,U16,2034281.38,2
+DisC17,Distal_Colon,N,Plate5,U3,1165825.5,2
+DisC18,Distal_Colon,N,Plate5,U14,1527858.63,2
+DisC19,Distal_Colon,N,Plate3,U20,73254.09,2
+DiscC01,Distal_Colon,N,Plate8,U1,205456.61,1
+DiscC09,Distal_Colon,N,Plate8,U20,317775.28,1
+DiscC12,Distal_Colon,N,Plate8,U13,2609875.5,2
+DiscC13,Distal_Colon,N,Plate8,U11,3073822.25,2
+DiscC15,Distal_Colon,N,Plate8,U3,1710880.13,2
+Duo02,Duodenum,N,Plate3,U24,41400.93,1
+Duo03,Duodenum,N,Plate4,U12,424.69,1
+Duo04,Duodenum,N,Plate6,U1,27035.43,1
+Duo06,Duodenum,N,Plate5,U23,7461.29,1
+Duo07,Duodenum,N,Plate3,U13,70400.84,1
+Duo12,Duodenum,N,Plate8,U24,3059.5,2
+Duo13,Duodenum,N,Plate8,U8,13323.6,2
+Duo14,Duodenum,N,Plate7,U14,2772843,2
+Duo16,Duodenum,N,Plate2,U16,1561.51,2
+Duo17,Duodenum,N,Plate7,U23,13004.75,2
+Duo18,Duodenum,N,Plate4,U20,6445.94,2
+Duo19,Duodenum,N,Plate7,U8,5187.08,2
+Fec01,Fecal,N,Plate3,U23,11441908,1
+Fec02,Fecal,N,Plate4,U10,11979323,1
+Fec03,Fecal,N,Plate2,U18,6712834.5,1
+Fec04,Fecal,N,Plate2,U11,6850573.5,1
+Fec05,Fecal,Y,Plate4,U19,10682375,1
+Fec06,Fecal,N,Plate6,U9,9118975,1
+Fec07,Fecal,N,Plate8,U15,6752743.5,1
+Fec08,Fecal,Y,Plate 1,U14,3415856,1
+Fec09,Fecal,N,Plate3,U19,6669235.5,1
+Fec11,Fecal,Y,Plate3,U22,5507713.5,2
+Fec12,Fecal,N,Plate3,U17,6105766,2
+Fec13,Fecal,N,Plate7,U12,4805215.5,2
+Fec14,Fecal,N,Plate5,U21,4467489.5,2
+Fec15,Fecal,N,Plate6,U24,4280980,2
+Fec16,Fecal,N,Plate6,U19,4390678.5,2
+Fec17,Fecal,N,Plate4,U7,4851536.5,2
+Fec18,Fecal,N,Plate6,U22,4624601,2
+Fec19,Fecal,N,Plate7,U10,2953871,2
+Ile01,Ileum,N,Plate4,U9,6160.34,1
+Ile02,Ileum,N,Plate2,U15,116082.44,1
+Ile03,Ileum,N,Plate 1,U7,3449.09,1
+Ile04,Ileum,N,Plate7,U9,1987.84,1
+Ile05,Ileum,Y,Plate3,U9,1435.27,1
+Ile06,Ileum,N,Plate3,U3,46623.21,1
+Ile08,Ileum,Y,Plate4,U8,1043.51,1
+Ile09,Ileum,N,Plate4,U18,9098.73,1
+Ile11,Ileum,Y,Plate8,U6,91474.87,2
+Ile12,Ileum,N,Plate5,U6,7649.41,2
+Ile15,Ileum,N,Plate4,U2,14698.23,2
+Ile16,Ileum,N,Plate 1,U10,143348.61,2
+Ile17,Ileum,N,Plate3,U4,820.31,2
+Ile18,Ileum,N,Plate 1,U6,2227530.25,2
+Ile19,Ileum,N,Plate7,U5,2304.93,2
+Jej02,Jejunum,N,Plate7,U19,2392.47,1
+Jej03,Jejunum,N,Plate4,U1,2242.03,1
+Jej05,Jejunum,Y,Plate6,U23,13647.08,1
+Jej06,Jejunum,N,Plate8,U10,11399.44,1
+Jej07,Jejunum,N,Plate2,U7,25134.87,1
+Jej08,Jejunum,Y,Plate2,U19,1917.61,1
+Jej09,Jejunum,N,Plate6,U10,18643.4,1
+Jej11,Jejunum,Y,Plate8,U4,11586.47,2
+Jej13,Jejunum,N,Plate5,U16,861.06,2
+Jej14,Jejunum,N,Plate 1,U21,85030.49,2
+Jej15,Jejunum,N,Plate5,U18,2855.11,2
+Jej16,Jejunum,N,Plate8,U16,4691.94,2
+Jej17,Jejunum,N,Plate6,U5,87827.07,2
+Jej18,Jejunum,N,Plate2,U23,2332.95,2
+Jej19,Jejunum,N,Plate5,U8,200.25,2
+LA11,Liver_Abscess,Y,Plate4,U24,36236.91,2
+LA5,Liver_Abscess,Y,Plate 1,U20,18036.59,1
+LA8.1,Liver_Abscess,Y,Plate6,U17,68825.66,1
+LA8.2,Liver_Abscess,Y,Plate 1,U1,202723.25,1
+LA8.3,Liver_Abscess,Y,Plate5,U22,18129.69,1
+Or01,Oral,N,Plate7,U24,1365894.5,1
+Or02,Oral,N,Plate5,U9,9254.89,1
+Or03,Oral,N,Plate7,U1,2285095.25,1
+Or05,Oral,Y,Plate4,U11,1538034.63,1
+Or06,Oral,N,Plate6,U6,1799031.88,1
+Or07,Oral,N,Plate6,U15,682918.31,1
+Or09,Oral,N,Plate7,U20,1380620.38,1
+Or11,Oral,Y,Plate8,U17,1972106.63,2
+Or12,Oral,N,Plate8,U14,3729210.75,2
+Or13,Oral,N,Plate4,U5,219221.3,2
+Or14,Oral,N,Plate3,U11,2179172.25,2
+Or15,Oral,N,Plate7,U22,2300597,2
+Or16,Oral,N,Plate4,U6,3578956.25,2
+Or17,Oral,N,Plate3,U15,6574684.5,2
+Or18,Oral,N,Plate8,U2,5282066,2
+Or19,Oral,N,Plate2,U3,1208177.63,2
+Rum01,Rumen,N,Plate2,U22,1789001,1
+Rum02,Rumen,N,Plate6,U11,2268044.75,1
+Rum03,Rumen,N,Plate7,U4,1643929.5,1
+Rum04,Rumen,N,Plate6,U16,4912638,1
+Rum05,Rumen,Y,Plate3,U21,3353769.25,1
+Rum06,Rumen,N,Plate 1,U8,4339528.5,1
+Rum07,Rumen,N,Plate 1,U22,1282990,1
+Rum08,Rumen,Y,Plate7,U3,3214296.25,1
+Rum09,Rumen,N,Plate7,U17,3023063,1
+Rum11,Rumen,Y,Plate5,U12,2183887.25,2
+Rum12,Rumen,N,Plate8,U19,3050152,2
+Rum13,Rumen,N,Plate2,U17,905524.75,2
+Rum14,Rumen,N,Plate3,U6,2543288.25,2
+Rum15,Rumen,N,Plate 1,U3,936746.69,2
+Rum16,Rumen,N,Plate7,U18,629652.31,2
+Rum17,Rumen,N,Plate2,U14,1654976.5,2
+Rum18,Rumen,N,Plate 1,U12,1396154.13,2
+Rum19,Rumen,N,Plate6,U4,1059879.13,2
+SprC02,Spiral_Colon,N,Plate6,U12,15734.41,1
+SprC03,Spiral_Colon,N,Plate 1,U24,16073.35,1
+SprC04,Spiral_Colon,N,Plate5,U5,857.28,1
+SprC05,Spiral_Colon,Y,Plate5,U10,5039411.5,1
+SprC06,Spiral_Colon,N,Plate2,U4,1802042.88,1
+SprC08,Spiral_Colon,Y,Plate 1,U9,845922.81,1
+SprC09,Spiral_Colon,N,Plate5,U7,3382.75,1
+SprC12,Spiral_Colon,N,Plate6,U8,4567246.5,2
+SprC13,Spiral_Colon,N,Plate 1,U5,2734460,2
+SprC14,Spiral_Colon,N,Plate7,U11,1491.36,2
+SprC16,Spiral_Colon,N,Plate5,U20,1070.08,2
+SprC17,Spiral_Colon,N,Plate4,U15,4496960,2
+SprC18,Spiral_Colon,N,Plate7,U2,3918196,2
+SprC19,Spiral_Colon,N,Plate3,U2,16040.27,2
+SprcC01,Spiral_Colon,N,Plate8,U5,5182557.5,1
+SprcC07,Spiral_Colon,N,Plate8,U12,6779161.5,1
+SprcC11,Spiral_Colon,Y,Plate8,U7,5446824,2
+SprcC15,Spiral_Colon,N,Plate8,U21,3497131,2
